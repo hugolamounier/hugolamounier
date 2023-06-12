@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Some stats for fun
-
 <center>
 <table>
   <tr>
